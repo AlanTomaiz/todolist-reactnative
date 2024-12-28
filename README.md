@@ -16,7 +16,7 @@ O projeto foi desenvolvido como um desafio do curso da Rocketseat na trilha de R
 - [x] Mostrar o progresso de conclusão das tarefas;
 - [x] Exibir alerta confirmando removeção de uma tarefa;
 
-# Startando projeto
+## 🚀 Startando projeto
 ```bash
 # Clone esse projeto
 $ git clone https://github.com/AlanTomaiz/todolist-reactnative.git
